@@ -10,3 +10,12 @@ TMI Project is a short term for 'Things Management by IoT', which is an IoT serv
 ## Tech/framework used
 <b>Built with</b>
 - [React-Native](https://facebook.github.io/react-native/)
+- [Expo](https://https://expo.io/)
+
+## Quick Start
+1. Download Expo Application in your device
+2. ```npm install expo-cli --global```
+3. ```expo start``` and screen QR code by your Expo application
+
+## Bulid Error
+if you can't run the React-native App by Expo, please see [here](https://github.com/react-community/create-react-native-app/issues/144)
