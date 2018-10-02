@@ -18,4 +18,7 @@ TMI Project is a short term for 'Things Management by IoT', which is an IoT serv
 3. ```expo start``` and screen QR code by your Expo application
 
 ## Bulid Error
-if you can't run the React-native App by Expo, please see [here](https://github.com/react-community/create-react-native-app/issues/144)
+- set REACT_NATIVE_PACKAGER_HOSTNAME, please see [here](https://github.com/react-community/create-react-native-app/issues/144)
+
+- Check Your Device and PC are connecting same Network
+
